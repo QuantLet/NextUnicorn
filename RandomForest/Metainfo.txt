@@ -1,4 +1,4 @@
-Name of Quantlet: 'Random Forest'
+Name of Quantlet: 'RandomForest'
 
 Published in: TBC
 
