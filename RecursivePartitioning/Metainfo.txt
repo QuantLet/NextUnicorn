@@ -1,4 +1,4 @@
-Name of Quantlet: 'Recursive Partitioning'
+Name of Quantlet: 'RecursivePartitioning'
 
 Published in: TBC
 
