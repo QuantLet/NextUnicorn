@@ -1,4 +1,4 @@
-Name of Quantlet: 'Logistic Regression'
+Name of Quantlet: 'LogisticRegression'
 
 Published in: TBC
 
