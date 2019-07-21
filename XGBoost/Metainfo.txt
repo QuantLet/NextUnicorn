@@ -1,4 +1,4 @@
-Name of Quantlet: 'Next_Unicorn_XGBoost'
+Name of Quantlet: 'XGBoost'
 
 Published in: TBC
 
