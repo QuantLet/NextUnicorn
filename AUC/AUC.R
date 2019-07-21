@@ -20,3 +20,8 @@ legend("bottomright", legend = c("M0", "M1", "Rpart", "Cond. Inf. Tree", "Random
        lty = 1, cex = 0.8, plot = FALSE)
 
 dev.off()
+
+modelnames  = c("Full logistic regression", "Reduced logistic regression", "Rpart", "Ctree", "Random forest", "XGBoost")
+AUC   = c(AUC.full, AUC.reduced, AUC.rpart, AUC.inf, AUC.rf, AUC.xgb)
+
+auc_result = data.frame(modelnames, AUC)
