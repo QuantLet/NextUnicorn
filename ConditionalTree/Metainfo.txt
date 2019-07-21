@@ -1,4 +1,4 @@
-Name of Quantlet: 'Conditional Trees'
+Name of Quantlet: 'ConditionalTree'
 
 Published in: TBC
 
