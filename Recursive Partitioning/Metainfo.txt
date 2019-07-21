@@ -1,4 +1,4 @@
-Name of Quantlet: 'Next_Unicorn_Rpart'
+Name of Quantlet: 'Recursive Partitioning'
 
 Published in: TBC
 
