@@ -1,4 +1,4 @@
-Name of Quantlet: 'Next_Unicorn_Logistic Regression'
+Name of Quantlet: 'Logistic Regression'
 
 Published in: TBC
 
