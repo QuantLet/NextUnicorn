@@ -23,7 +23,7 @@ params = list(booster = "gbtree", objective = "binary:logistic", eta = 0.3, gamm
 xgbcv = xgb.cv( params = params, data = dtrain, nrounds = 200, nfold = 5, showsd = T, stratified = T, 
                  print_every_n = 10, early_stopping_rounds = 20, maximize = F)
 
-# best iteration 72
+# best iteration 129
 
 min(xgbcv$evaluation_log$test_error_mean) # 0.047908
 # therefore CV accuracy is 1-0.047908 = 0.952092
