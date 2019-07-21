@@ -1,8 +1,4 @@
-Name of Quantlet: 'Next_Unicorn'
-
-Published in: TBC
-
-Description: This repository contains 5 folders with respective quantlets for the master thesis "Searching for a unicorn: A ML approach towards predicting startup success"
+Description: This repository contains 11 folders with respective quantlets for the master thesis "Searching for a unicorn: A ML approach towards predicting startup success"
 
 Keywords: startup success, ensemble models, success prediction
 
