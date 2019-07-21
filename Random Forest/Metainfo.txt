@@ -1,4 +1,4 @@
-Name of Quantlet: 'Next_Unicorn_Random Forest'
+Name of Quantlet: 'Random Forest'
 
 Published in: TBC
 
