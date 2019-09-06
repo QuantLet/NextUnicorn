@@ -1,4 +1,4 @@
-Name of Quantlet: 'NextUnicorn_AUC.R'
+Name of Quantlet: 'NextUnicorn_AUC'
 
 Published in: TBC
 
