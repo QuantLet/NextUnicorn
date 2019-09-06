@@ -1,4 +1,4 @@
-Name of Quantlet: 'DataCleaning'
+Name of Quantlet: 'NextUnicorn_DataCleaning'
 
 Published in: TBC
 
