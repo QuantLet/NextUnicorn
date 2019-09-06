@@ -1,4 +1,4 @@
-Name of Quantlet: 'Results'
+Name of Quantlet: 'NextUnicorn_Results'
 
 Published in: TBC
 
