@@ -1,4 +1,4 @@
-Name of Quantlet: 'ConditionalTree'
+Name of Quantlet: 'NextUnicorn_ConditionalTree'
 
 Published in: TBC
 
