@@ -1,4 +1,4 @@
-Name of Quantlet: 'Scatter'
+Name of Quantlet: 'NextUnicorn_Scatter'
 
 Published in: TBC
 
