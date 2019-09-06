@@ -1,4 +1,4 @@
-Name of Quantlet: 'helperFunctions'
+Name of Quantlet: 'NextUnicorn_helperFunctions'
 
 Published in: TBC
 
