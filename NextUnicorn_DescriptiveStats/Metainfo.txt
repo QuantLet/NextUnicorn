@@ -1,4 +1,4 @@
-Name of Quantlet: 'NextUnicorn_DescriptiveStats'
+Name of Quantlet: 'NextUnicorn_DescriptiveStats.R'
 
 Published in: TBC
 
