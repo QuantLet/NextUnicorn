@@ -1,4 +1,4 @@
-Name of Quantlet: 'Sigmoid'
+Name of Quantlet: 'NextUnicorn_Sigmoid'
 
 Published in: TBC
 
