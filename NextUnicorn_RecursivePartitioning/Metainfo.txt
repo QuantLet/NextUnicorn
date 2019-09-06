@@ -1,4 +1,4 @@
-Name of Quantlet: 'RecursivePartitioning'
+Name of Quantlet: 'NextUnicorn_RecursivePartitioning'
 
 Published in: TBC
 
