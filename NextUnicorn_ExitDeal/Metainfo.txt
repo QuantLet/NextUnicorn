@@ -1,4 +1,4 @@
-Name of Quantlet: 'ExitDeal'
+Name of Quantlet: 'NextUnicorn_ExitDeal'
 
 Published in: TBC
 
