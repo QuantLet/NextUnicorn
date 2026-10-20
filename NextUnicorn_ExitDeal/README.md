@@ -9,7 +9,7 @@ Name of Quantlet: NextUnicorn_ExitDeal
 
 Published in: TBC
 
-Description: This fodler contains 1 quantlet for the exit deal size plot for master thesis "Searching for a unicorn: A ML approach towards predicting startup success
+Description: This fodler contains 1 quantlet for the exit deal size plot for master thesis "Searching for a unicorn: A ML approach towards predicting startup success"
 
 Keywords: startup success, ensemble models, success prediction
 
