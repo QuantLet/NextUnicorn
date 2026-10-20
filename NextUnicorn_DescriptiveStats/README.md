@@ -9,7 +9,7 @@ Name of Quantlet: NextUnicorn_DescriptiveStats.R
 
 Published in: TBC
 
-Description: This folder contains 1 quantlet for the descriptive statistics for the master thesis "Searching for a unicorn: A ML approach towards predicting startup success
+Description: This folder contains 1 quantlet for the descriptive statistics for the master thesis "Searching for a unicorn: A ML approach towards predicting startup success"
 
 Keywords: startup success, ensemble models, success prediction
 
