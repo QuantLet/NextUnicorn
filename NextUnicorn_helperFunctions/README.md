@@ -9,7 +9,7 @@ Name of Quantlet: NextUnicorn_helperFunctions
 
 Published in: TBC
 
-Description: This folder contains 1 quantlet for the extreme gradient boosting model for the master thesis "Searching for a unicorn: A ML approach towards predicting startup success
+Description: This folder contains 1 quantlet for the extreme gradient boosting model for the master thesis "Searching for a unicorn: A ML approach towards predicting startup success"
 
 Keywords: startup success, ensemble models, success prediction
 
