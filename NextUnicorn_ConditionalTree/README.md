@@ -9,7 +9,7 @@ Name of Quantlet: NextUnicorn_ConditionalTree
 
 Published in: TBC
 
-Description: This fodler contains 1 quantlet for the conditional inference tree model for master thesis "Searching for a unicorn: A ML approach towards predicting startup success
+Description: This fodler contains 1 quantlet for the conditional inference tree model for master thesis "Searching for a unicorn: A ML approach towards predicting startup success"
 
 Keywords: startup success, ensemble models, success prediction
 
